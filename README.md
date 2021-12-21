@@ -50,7 +50,7 @@ To intall all depencies automatically, open a julia REPL in the package source d
 ```julia
 julia> ]
 (@v1.6) Pkg> activate .
-(@v1.6) Pkg> instantiate
+(TumorClassifier) Pkg> instantiate
 ```
 
 ## Data Set:
