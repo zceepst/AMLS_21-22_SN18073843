@@ -52,6 +52,9 @@ julia> ]
 (@v1.6) Pkg> activate .
 (TumorClassifier) Pkg> instantiate
 ```
+## Potential Issues:
+
+If you run into issues saving models, try create the directory, using `mkdir` you are trying to save the model into first, then retry.
 
 ## Data Set:
 
